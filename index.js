@@ -1,5 +1,4 @@
 function render(el) {
-
 }
 
 function h(type, props, ...children) {}
