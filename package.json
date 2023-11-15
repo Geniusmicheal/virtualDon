@@ -1,0 +1,13 @@
+{
+  "name": "virtualDom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "compile": "babel index.js --out-file compiled.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.23.0"
+  }
+}
